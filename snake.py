@@ -1,4 +1,7 @@
 from turtle import Turtle
+''' This file will create the snakes
+segment and will control its movement as the game proceeds
+and snake eats the bubble it will increase this all part of coding is been done in this part of the code'''
 
 MOVING_POINT = [(0, 0), (-20, 0), (-40, 0)]
 DISTANCE = 20
