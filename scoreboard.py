@@ -1,4 +1,5 @@
 from turtle import Turtle
+''' This file is used to create the scoreboard and maintains it as the game proceed'''
 
 score = 0
 
