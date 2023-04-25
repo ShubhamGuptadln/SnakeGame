@@ -1,6 +1,7 @@
 from turtle import Turtle
 import random
-
+''' This file is used to create the food and place at random positions after every time the sanke eats the food.
+This process will be continued until the game is over'''
 
 class Food(Turtle):
     def __init__(self):
